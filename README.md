@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment-1</title>
+</head>
+<body>
+    <h1>Welcome to Laundry Wallah/Laundry Mart</h1>
+    <p>Welcome to Laundry Wallah/Laundry Mart, your one-stop solution for all your laundry needs.Our dedicated teams insures top-notch service, providing a hasssel free
+and efficient laundry experience. With a focus on quality and customer satisfaction, we take care of your garments if they were our own.</p>
+
+<img src="https://i.pinimg.com/736x/e4/b1/ae/e4b1ae6126d895d00b238ad673d02019.jpg" 
+      alt="Washing Machine Image"
+      height="300"
+       width="400" >
+
+       <h2>Our Services</h2>
+     <ul>
+        <li>Washing and Drying</li>
+        <li>Ironing and Folding</li>
+        <li>Dry Cleaning</li>
+        <li>Stain Removal</li>
+        <li>Express Services</li>
+        <li>Special Garment Care</li>
+        <li>And more...</li>
+     </ul>
+
+     <h2>Price List</h2>
+
+     <table border="">
+        <tr align="center">
+            <th>Services</th>
+            <th>Price</th>
+        </tr>
+
+        <tr align="center">
+            <td>Washing and Drying</td>
+            <td>$10.00</td>
+        </tr>
+        <tr align="center">
+            <td>Ironing and Folding</td>
+            <td>$5.00</td>
+        </tr>
+     </table>
+
+     <h2>Book Now</h2>
+
+     <label for="">Name :</label>
+     <input type="text" required>
+
+      <label for="">Email :</label>
+     <input type="email" required>
+
+     <label for="">Phone :</label>
+     <input type="number" required>
+      
+     <input type="submit">
+
+     <p>Contact Us at : <a href="mailto: info@laundrymart.com">info@laundrymart.com</a> </p>
+
+</body>
+</html>
